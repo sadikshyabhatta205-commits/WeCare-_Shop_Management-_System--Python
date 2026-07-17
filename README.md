@@ -1,0 +1,1 @@
+# WeCare-_Shop_Management-_System--Python
